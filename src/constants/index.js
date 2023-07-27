@@ -343,7 +343,7 @@ const projects = [
   {
     name: "Shadow Labs",
     description:
-      "Developed a landing page for 'Shadow Labs', a developer-focused community that allows developers to interact and work together on various projects and job oppurtunities",
+      "Developed a landing page for 'Shadow Labs', a developer-focused community that allows developers to interact and work together on various projects and job oppurtunities.",
     tags: [
       {
         name: "next",
